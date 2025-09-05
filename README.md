@@ -7,7 +7,7 @@
 
 This repository showcases strategic analysis of existing documentation, identification of improvement opportunities, and implementation of modern documentation best practices for Claude Code's developer experience.
 
-**Live Interactive Demo:** [View Proposal](https://izelrea.github.io/claude-code-documentation-proposal/) [View Proposal](https://izelrea.github.io/claude-code-documentation-proposal/)
+**Live Interactive Demo:** [View Proposal](https://izelrea.github.io/claude-code-documentation-proposal/) 
 
 ## 📋 Strategic Analysis
 
@@ -95,7 +95,7 @@ This proposal demonstrates:
 
 **Israel Santos**  
 Email: izelrea@gmail.com  
-LinkedIn: [Israel Santos - AWS Senior Manager](https://www.linkedin.com/in/israelgs/)
+LinkedIn: [Israel Santos](https://www.linkedin.com/in/israelgs/)
 
 ---
 
